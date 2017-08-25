@@ -1,5 +1,5 @@
 # You should prepare MOD, ev.reloc, Qp_model.dat, and DWS files
-  Put those file into "Input" folder
+  Put those files into "Input" folder
   Those files' formats are the same as FILES outputed from TomoDD program
 
 # Main_Plotting_Qimage.m
