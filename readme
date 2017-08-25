@@ -1,0 +1,24 @@
+# You should prepare MOD, ev.reloc, Qp_model.dat, and DWS files
+  Put those file into "Input" folder
+  Those files' formats are the same as FILES outputed from TomoDD program
+
+# Main_Plotting_Qimage.m
+  it is used to plot 2D Q image and event projection, and can be used to clip map by using DWS values
+
+# setting_plot.m 
+  it is used to define the attributes of figure for improving plotting quality
+
+# CrossXY_plane.m
+  it is uesed to plotting Q image along the Z direction
+  And ouput x,y,z data for GMT plotting.
+
+# CrossXZ_plane.m
+  it is used to plotting Q image along Y direction; and we interpolate the Q value in log domain
+  And output x,y,z data for GMT plotting
+
+# CrossYZ_plane.m
+  it is used to plotting Q image along X direction; and we interpolate the Q value in log domain
+  And output x,y,z data for GMT plotting
+
+Date: 2017-08-25
+HJ @ USTC
