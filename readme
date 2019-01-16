@@ -1,4 +1,4 @@
-# You should prepare MOD, ev.reloc, Qp_model.dat, and DWS files
+# You should prepare for MOD, ev.reloc, Qp_model.dat, and DWS files
   Put those files into "Input" folder
   Those files' formats are the same as FILES outputed from TomoDD program
 
